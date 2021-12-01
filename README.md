@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pbkh-vuthy
-- 👀 I’m interested in Java, Kotlin, Spring Framework, Reactive Programming,and Database.
+- 👀 I’m interested in Java, Kotlin, Spring Framework, Reactive Programming, and Database.
 - 🌱 I’m currently learning Kotlin & Reactive Spring.
 - 💞️ I’m looking to collaborate on backend technologies.
-- 📫 How to reach me ...
+- 📫 How to reach me ... Facebook: Thong Vuthy
 
 <!---
 pbkh-vuthy/pbkh-vuthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
